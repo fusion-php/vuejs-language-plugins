@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "private": "true",
+  "scripts": {
+    "dev": "tsup-node --watch",
+    "eslint": "eslint ."
+  },
+  "dependencies": {
+    "php-parser": "^3.2.2"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.14.0",
+    "@types/node": "^22.10.7",
+    "@vue/language-core": "../vuejs-language-tools/packages/language-core",
+    "@zinkawaii/eslint-config": "^0.1.9",
+    "eslint": "^9.18.0",
+    "tsup": "^8.3.5",
+    "unbuild": "^3.3.1",
+    "vue": "^3.5.13"
+  }
+}
