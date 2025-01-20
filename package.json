@@ -11,7 +11,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^3.14.0",
     "@types/node": "^22.10.7",
-    "@vue/language-core": "../vuejs-language-tools/packages/language-core",
+    "@vue/language-core": "^2.2.0",
     "@zinkawaii/eslint-config": "^0.1.9",
     "eslint": "^9.18.0",
     "tsup": "^8.3.5",
